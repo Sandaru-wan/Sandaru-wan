@@ -25,7 +25,7 @@
     <a href="https://linkedin.com/in/sandaru-wan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:sandaruwantharaka200@gmail.com" target="_blank">
+    <a href="mailto:info.sandem@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://twitter.com" target="_blank">
@@ -282,7 +282,7 @@ Here is a curated selection of systems and applications I've developed, ranging 
   
   <a href="https://github.com/Sandaru-wan" target="_blank"><img src="https://img.shields.io/badge/Follow-Sandaru--wan-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Follow" /></a>
   <a href="https://linkedin.com/in/sandaru-wan" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Connect" /></a>
-  <a href="mailto:sandaruwantharaka200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sandaruwantharaka200%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send Email" /></a>
+  <a href="mailto:info.sandem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-info.sandem%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send Email" /></a>
 
   <br/><br/>
 
